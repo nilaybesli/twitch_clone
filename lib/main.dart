@@ -19,7 +19,9 @@ Future<void> main() async {
           apiKey: "AIzaSyBfC5hOCulj7L-kwzLG9txb5d2bVnOVeKk",
           appId: "1:725344960075:android:94a0660a13f71d7b4d57ce",
           messagingSenderId: "725344960075",
-          projectId: "twitch-clone-25259"));
+          projectId: "twitch-clone-25259",
+      storageBucket:"twitch-clone-25259.appspot.com"
+      ));
 
   runApp(MultiProvider(providers: [
     ChangeNotifierProvider(

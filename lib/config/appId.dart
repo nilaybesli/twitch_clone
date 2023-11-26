@@ -1,0 +1,3 @@
+const appId = "8a73f457ee644cb28d846b254af8cf8b";
+const tempToken =
+    "007eJxTYFDuqNh8Wp5ddi9TsPnmWxwC4tuuMRusqlDgM7M27it8FKPAYJFobpxmYmqemmpmYpKcZGSRYmFilmRkapKYZpGcZpGUH5yU2hDIyCCc9ZyVkQECQXx2hpLU4hJDI2MGBgBjAhwW";
