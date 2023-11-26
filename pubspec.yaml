@@ -46,6 +46,8 @@ dependencies:
   permission_handler: ^11.0.1
   flutter_webrtc: ^0.9.46
   uuid: ^4.2.1
+  http: ^1.1.0
+  timeago: ^3.6.0
 
 dev_dependencies:
   flutter_test:
